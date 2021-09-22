@@ -1,5 +1,7 @@
 # hackmit21
 
+https://www.youtube.com/watch?v=fkD6IxRAXhw
+
 ### Himnish Hunma, Christine Yang, Mudi Yang, Eric Zhang
 
 Baby's first django project!
